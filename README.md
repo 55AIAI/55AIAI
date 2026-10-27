@@ -1,74 +1,25 @@
-<h1 align="center">Bektas Mukhambetov</h1>
-<p align="center">
-AI & ML | LLM Systems | Data Science
-</p>
+# Hi, I'm Bektas Mukhambetov
 
----
+Computer Science student at Astana IT University interested in machine learning, data science and LLM applications. I build projects to explore how models and data systems work in practice.
 
-## 👨‍💻 About Me
+## Selected projects
 
-Computer Science student focused on **Machine Learning**, **LLM-based systems**, and **modular AI architectures**.
+- [Multi-Document RAG Assistant](https://github.com/55AIAI/rag-multi-doc-assistant) — an assistant for asking questions about document collections using retrieval-augmented generation.
+- [Steel Temperature Prediction](https://github.com/55AIAI/steel-temp-prediction) — a machine learning experiment for predicting steel temperature. The evaluation is being reviewed for target leakage.
+- [Financial ML Momentum System](https://github.com/55AIAI/financial-ml-momentum-system) — an exploration of financial data and machine learning.
+- [Object Detection](https://github.com/55AIAI/object_detection) — experiments with computer vision and object detection.
+- [Book Review Platform](https://github.com/55AIAI/book-review-platform) — a JavaScript application for managing books.
 
-I work on financial data analysis, Retrieval-Augmented Generation (RAG), and system-level AI design.
+## Technologies
 
----
+Python · JavaScript · SQL · pandas · NumPy · scikit-learn · PyTorch · OpenCV · LangChain · ChromaDB · Node.js · Express · MongoDB
 
-## 🚀 Current Focus
+## Education
 
-- Transformer architecture  
-- LLM system design  
-- RAG pipelines  
-- Financial ML systems  
+**BSc in Computer Science**, Astana IT University, 2024–2027  
+Academic exchange: Beijing Institute of Technology, 2025–2026
 
----
+## Contact
 
-## 🛠 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-### 📊 Data & ML
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
-
-- EDA  
-- Regression & Classification  
-- Time-series preprocessing  
-
-### 🤖 AI & LLM
-![RAG](https://img.shields.io/badge/RAG-LLM-orange?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Search-green?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-Basic-blue?style=for-the-badge)
-
-- Modular MCP-style architecture  
-- Multi-agent system concepts  
-- Prompt engineering basics  
-
----
-
-## 📂 Featured Projects
-
-- **Financial ML Momentum System**
-- **Multi-Agent Financial Analysis System**
-- **Steel Temperature Prediction (Regression)**
-- **Book Review Platform (Fullstack)**
-
----
-
-## 🎓 Education
-
-**Bachelor in Computer Science**  
-Astana IT University (2024–2027)
-
-Academic Mobility  
-Beijing University of Technology (2025)
-
----
-
-## 📫 Contact
-
-Email: muhambetovbektas7@gmail.com  
-Telegram: @bekt5as
+Email: [muhambetovbektas7@gmail.com](mailto:muhambetovbektas7@gmail.com)  
+Telegram: [@bekt5as](https://t.me/bekt5as)
