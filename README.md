@@ -51,10 +51,16 @@ I work on financial data analysis, Retrieval-Augmented Generation (RAG), and sys
 
 ## 📂 Featured Projects
 
-- **Financial ML Momentum System**
-- **Multi-Agent Financial Analysis System**
-- **Steel Temperature Prediction (Regression)**
-- **Book Review Platform (Fullstack)**
+| Project | Focus | Technologies |
+|---|---|---|
+| [RAG Multi-Document Assistant](https://github.com/55AIAI/rag-multi-doc-assistant) | Document Q&A, citations, retrieval & reranking | Python, Streamlit, Chroma, Qwen |
+| [YOLO + CLIP Vision Pipeline](https://github.com/55AIAI/object_detection) | Object detection, tracking and zero-shot recognition | Python, YOLO, PyTorch, CLIP |
+| [Steel Temperature Prediction](https://github.com/55AIAI/steel-temp-prediction) | Industrial regression experiment (under methodological review) | Python, Scikit-learn, XGBoost |
+| [Financial Momentum Analysis](https://github.com/55AIAI/financial-ml-momentum-system) | Momentum research and report analysis | Python, Pandas, CrewAI |
+| [Book Review Platform](https://github.com/55AIAI/book-review-platform) | Authentication, user library, REST APIs | Node.js, Express, MongoDB |
+| [Machine Learning & Deep Learning](https://github.com/55AIAI/ml-dl-project) | Classification, CNNs and dimensionality reduction | Scikit-learn, TensorFlow |
+
+**Engineering priorities:** reproducible experiments, secure APIs, clear documentation, and automated tests.
 
 ---
 
