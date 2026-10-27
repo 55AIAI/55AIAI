@@ -51,6 +51,7 @@ I work on financial data analysis, Retrieval-Augmented Generation (RAG), and sys
 
 ## 📂 Featured Projects
 
+- **[Document Intelligence Toolkit — Public Demo](https://github.com/55AIAI/55AIAI/tree/main/projects/document-intelligence-toolkit)** — Word/Excel conversion, editable relationship diagrams, synthetic examples and 23 offline tests.
 - **Financial ML Momentum System**
 - **Multi-Agent Financial Analysis System**
 - **Steel Temperature Prediction (Regression)**
